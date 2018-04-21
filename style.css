@@ -178,52 +178,47 @@ td
 	float: right;
 	border-radius: 0px 0px 0px;
 	padding-right: 400px;
-}
-.home{
-	border-radius: 0px 0px 0px;
-	padding-left: 100px;
-}
-.abot{
-	border-radius: 0px 0px 0px;
-	padding-left: 100px;
-}
-.cvv{
-	border-radius: 0px 0px 0px;
-	padding-left: 100px;
-}
-.socio{
-	border-radius: 0px 0px 0px;
-	padding-left: 100px;
-}
-.cont{
-	border-radius: 0px 0px 0px;
-	padding-left: 100px;
 
 }
-.vali{
+.design1{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
+	padding-left: 350px;
 }
-.vala{
+.design2{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
+	padding-left: 350px;
 }
-.valc{
+.design3{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
+	padding-left: 350px;
 }
-.vals{
+.design4{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
+	padding-left: 350px;
 }
-.valco{
+.design5{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
+	padding-left: 350px;
 }
-.valcss{
+.mock1{
 	border-radius: 0px 0px 0px;
-	padding-left: 100px;
-
+	padding-left: 200px;
+}
+.mock2{
+	border-radius: 0px 0px 0px;
+	padding-left: 200px;
+}
+.mock3{
+	border-radius: 0px 0px 0px;
+	padding-left: 200px;
+}
+.mock4{
+	border-radius: 0px 0px 0px;
+	padding-left: 200px;
+}
+.mock5{
+	border-radius: 0px 0px 0px;
+	padding-left: 200px;
 }
 .intro{
 	width: 98%;
@@ -244,12 +239,6 @@ section{flex-direction: column;}
 .map{width: 50%; order: 2;}
 .info{width: 95%; order: 1;}
 .personal{ float: left; width: 50%; order: 1; }
-.one{width: 90%; order: 2;}
-.two{width: 90%; order: 3;}
-.three{width: 90%; order: 4;}
-.four{width: 90%; order: 5;}
-.five{width: 90%; order: 6;}
-.six{width: 90%; order: 7;}
 iframe{ width: 195%; }
 
 
